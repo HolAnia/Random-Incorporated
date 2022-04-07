@@ -21,7 +21,6 @@ const Realizations = () => {
                 <ExampleCard url = { img2 } />
                 <ExampleCard url = { img3 } />
                 <ExampleCard url = { img4 } />
-                
             </ExamplesWrapper>
         </RealizationsWrapper>
     )
